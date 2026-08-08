@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-re9wet.koi888win.online/sitemap.xml
